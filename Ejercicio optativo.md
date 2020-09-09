@@ -4,7 +4,7 @@ En este ejercicio vamos a estar trabajando con una imagen satelital obtenida por
 
 Las longitudes de onda y la resolución espacial asociada a las bandas que utilizaremos en este ejercicio se describen a continuación:
 
-$`\sqrt{2}`$
+$\sqrt{2}$
 
 | Banda                        | Longitud de onda (nanómetros) | Resolución espacial (metros) |
 | ---------------------------- | ----------------------------- | ---------------------------- |
