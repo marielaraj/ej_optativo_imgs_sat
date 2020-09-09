@@ -49,7 +49,7 @@ Para este ejercicio trabajaremos con un índice: el Índice de Vegetación de Di
 
 Para calcular el NDVI se utilizan las bandas espectrales Roja e Infrarroja, el cálculo se hace mediante la siguiente fórmula:
 
-$$ \frac{INFRARROJO-ROJO}{INFRARROJO+ROJO} $$
+$$ \frac{INFRARROJO CERCANO-ROJO}{INFRARROJO CERCANO+ROJO} $$
 
 
 a) Calcular el NDVI.
