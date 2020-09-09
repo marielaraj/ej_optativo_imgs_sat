@@ -59,7 +59,7 @@ b) Categorizar los valores obtenidos en cada pixel de acuerdo a clases que no se
 
 | Valor de NDVI    | Nombre de la clase  | Identificador de Clase | color       |
 | ---------------- | ------------------- | ---------------------- | ----------- |
-| < 0              | No vegetada         | 0                      | b           |
+| < 0              | No vegetada         | 0                      | black       |
 | entre 0 y 0.1    | Área desnuda        | 1                      | y           |
 | entre 0.1 y 0.25 | Vegetación baja     | 2                      | yellowgreen |
 | entre 0.25 y 0.4 | Vegetación moderada | 3                      | g           |
