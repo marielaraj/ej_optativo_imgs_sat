@@ -47,7 +47,7 @@ b) ¿Qué banda o bandas parecieran distinguir mejor aquellos pixeles que repres
 
 Para este ejercicio trabajaremos con un índice: el Índice de Vegetación de Diferencia Normalizada, también conocido como NDVI por sus siglas en inglés. Este índice se utiliza para estimar la cantidad, calidad y desarrollo de la vegetación con base a la medición de la intensidad de la radiación de ciertas bandas del espectro electromagnético que la vegetación emite o refleja.
 
-Para calcular el NDVI se utilizan las bandas espectrales Roja e Infrarroja, el cálculo se hace mediante la siguiente fórmula:
+Para calcular el NDVI se utilizan las bandas espectrales Roja e Infrarroja Cercana, el cálculo se hace mediante la siguiente fórmula:
 
 $$ \frac{INFRARROJO CERCANO-ROJO}{INFRARROJO CERCANO+ROJO} $$
 
