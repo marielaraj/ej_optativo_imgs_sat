@@ -54,7 +54,7 @@ $$ \frac{INFRARROJO CERCANO-ROJO}{INFRARROJO CERCANO+ROJO} $$
 
 a) Calcular el NDVI.
 
-b) Categorizar los valores obtenidos en cada pixel de acuerdo a clases que no sean más útiles y fáciles de interpretar. La tabla a continuación muestra las categorías que consideraremos en este estudio:
+b) Categorizar los valores obtenidos en cada pixel de acuerdo a clases que sean más útiles y fáciles de interpretar. La tabla a continuación muestra las categorías que consideraremos en este estudio:
 
 
 
